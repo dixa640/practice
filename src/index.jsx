@@ -4,7 +4,7 @@ import ReactDOM from "react-dom/client";
 function Index() {
   return (
     <>
-    <h1>hello Jagjeet sir ji.</h1>,
+    <h1>hello Jagjeet sir</h1>,
     <p>This is a simple React app.</p>,
     <h2>this is a heading</h2>
     </>
